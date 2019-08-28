@@ -1,3 +1,5 @@
 hello welocme to devops class
 
 welcome to bangalore
+
+Today we are doing GIT commands practise
